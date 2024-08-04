@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi my name is Pranav V 😄
+
+I'm a student and I have been coding for about 4 years and I really enjoy working in go!!
+
+- 👷 I primarily use golang but have experience in writing python,C,C++ and JS.
+- 🍀 I plan to learn Rust since I am a bit interested in the solana blockchain.
+- 💬 You can contact me on my socials given on my profile!!
+ 
 
 <!--
 **prranavv/prranavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
