@@ -1,4 +1,4 @@
-## Hi my name is Pranav V 😄
+## Hi my name is Pranav 😄
 
 I'm a student and I have been coding for about 4 years and I really enjoy working in go!!
 
