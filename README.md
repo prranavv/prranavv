@@ -14,8 +14,8 @@ I'm a student and I have been coding for about 4 years !! I enjoy working on the
 ![](https://nirzak-streak-stats.vercel.app/?user=prranavv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prranavv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prranavv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies-->
+<!--![](https://github-profile-trophy.vercel.app/?username=prranavv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prranavv&icon=0&color=0)](https://visitcount.itsvg.in)
