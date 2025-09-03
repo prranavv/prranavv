@@ -1,9 +1,8 @@
-## Hi my name is Pranav 😄
+## Hey, my name is Pranav 😄
 
-I'm a student and I have been coding for about 4 years !! I enjoy working on the backend and ever since I got my hands dirty using Go,it made me leave Node for good. I'm currently looking for a backend development role and I'd love to work for a start up!! If you are hiring,lets chat!!
+I have been coding for about 5 years and I enjoy working on the backend, and ever since I got my hands dirty using Go, it made me leave Node for good. I'm currently looking for a backend development role, and I'd love to work for a start-up!! If you are hiring, let's chat!!
 
-- 👷 I primarily use golang but have experience in writing Python ,C ,C++ and JS.
-- 🍀 I plan to learn Rust since I am a bit interested in the solana blockchain.
+- 👷 I primarily use rust and golang but have experience in writing Python ,C ,C++ and JS.
 - 💬 You can contact me on my socials given on my profile!!
  
 # 💻 Tech Stack:
