@@ -1,24 +1,37 @@
-## Hey, I'm Pranav 👋
+# Hey, I'm Pranav 👋
 
-Backend engineer at **Itinr**, a travel tech company — started as an intern (Feb 2025) and converted to full-time (May 2025). I work on scalable APIs, microservices, and cloud-native systems.
+Backend engineer at **Itinr** (travel tech) — started as an intern, converted to full-time. I build scalable APIs, microservices, and cloud-native systems.
 
-I've been coding for about 5 years and love building things that are fast, reliable, and well-architected. Go is what pulled me away from Node for good, and Rust is what I reach for when performance really matters.
+5+ years of coding. Go pulled me away from Node for good. Rust is what I reach for when performance really matters.
 
-- 🔧 **Day-to-day:** Python, Django, Flask
-- 📱 **Also work with:** Rust,Golang, C, Cpp
-- ☁️ **Certified:** AWS Cloud Practitioner · Google Cloud Digital Leader
-- 💬 Feel free to reach out via my socials listed on my profile!
- 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prranavv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prranavv&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prranavv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=javascript,html,css,scss)
+## What I build with
 
-<!--## 🏆 GitHub Trophies-->
-<!--![](https://github-profile-trophy.vercel.app/?username=prranavv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)-->
+**Primary:** Rust · Go · Python  
+**Frameworks:** Django · Flask · Anchor (Solana)  
+**Infrastructure:** Docker · PostgreSQL · Supabase · AWS · GCP  
+**Also comfortable with:** C · C++ · Solidity
 
----
-[![](https://visitcount.itsvg.in/api?id=prranavv&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Notable projects
+
+🔁 **[Centralized Exchange Engine](https://github.com/prranavv/Centralized-Exchange-Engine-in-Rust)** — High-performance CEX engine in Rust with order book matching (price-time priority), multi-market support, and a REST API.
+
+🎵 **[Audio Conversion Service](https://github.com/prranavv/Audio-Conversion-Service)** — Real-time WAV→FLAC conversion microservice in Go. Streams over WebSockets, powered by FFmpeg, fully Dockerized.
+
+💱 **[CPAMM](https://github.com/prranavv/CPAMM)** — Constant Product Automated Market Maker for decentralized token swapping, built in Rust.
+
+🔐 **[Escrow (Solana)](https://github.com/prranavv/Escrow)** — On-chain escrow program built with Anchor — token swaps between maker and taker with initialize, take, and refund instructions.
+
+🪙 **[Sol Staking Program](https://github.com/prranavv/Sol-Staking-Program)** — Solana staking program built with Anchor — stake SOL tokens, earn rewards, and manage delegations on-chain.
+
+🐧 **[Rust-Utils](https://github.com/prranavv/Rust-Utils)** — Reimplementations of core Unix CLI tools (`cat`, `ls`, `cp`, `mv`, `mkdir`, etc.) in Rust.
+
+🗣️ **[Reddit Clone](https://github.com/prranavv/Reddit-Clone)** — Full-stack Reddit clone with Go, HTMX, and PostgreSQL. Server-rendered, no heavy JS frameworks.
+
+## Certifications
+
+☁️ AWS Cloud Practitioner · Google Cloud Digital Leader
+
+## Let's connect
+
+[![X](https://img.shields.io/badge/@Pranav__VKumar-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Pranav_VKumar)
+[![LinkedIn](https://img.shields.io/badge/Pranav_Veerendra_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-veerendra-kumar-b99b4b246/)
