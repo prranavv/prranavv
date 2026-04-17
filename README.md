@@ -18,7 +18,7 @@ Backend engineer at **Itinr** (travel tech) — building scalable APIs, microser
 
 **[Audio Conversion Service](https://github.com/prranavv/Audio-Conversion-Service)** — Real-time WAV→FLAC microservice in Go. WebSocket streaming, FFmpeg, fully Dockerized.
 
-**[Sol Staking Program](https://github.com/prranavv/Sol-Staking-Program)** — Solana staking program (Anchor) — stake, earn rewards, manage delegations on-chain.
+**[SOL Staking Program](https://github.com/prranavv/Sol-Staking-Program)** — Solana staking program (Anchor) — stake, earn rewards, manage delegations on-chain.
 
 **[Reddit Clone](https://github.com/prranavv/Reddit-Clone)** — Full-stack Reddit clone — Go, HTMX, PostgreSQL. Server-rendered, no JS frameworks.
 
