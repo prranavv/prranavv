@@ -12,6 +12,8 @@ Backend engineer at **Itinr** (travel tech) — building scalable APIs, microser
 
 **[Centralized Exchange Engine](https://github.com/prranavv/Centralized-Exchange-Engine-in-Rust)** — High-performance CEX engine in Rust. Order book with price-time priority matching, multi-market support, REST API.
 
+**[r-git](https://github.com/prranavv/r-git)** — Git reimplemented from scratch in Rust. Content-addressable object store, staging index, refs, branches — the plumbing and porcelain you actually use.
+
 **[CPAMM](https://github.com/prranavv/CPAMM)** — Constant Product AMM for decentralized token swapping in Rust.
 
 **[Escrow](https://github.com/prranavv/Escrow)** — Solana escrow program (Anchor) — token swaps between maker and taker with initialize, take, and refund instructions.
