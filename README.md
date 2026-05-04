@@ -2,7 +2,7 @@
 
 Backend engineer at **Itinr** (travel tech) — building scalable APIs, microservices, and cloud-native systems. Go pulled me away from Node for good. Rust is what I reach for when performance really matters.
 
-**Primary:** Rust · Go · Python
+**Primary:** Rust · Go · Python   
 **Frameworks:** Django · Flask · Anchor (Solana)  
 **Infra:** Docker · PostgreSQL · AWS · GCP  
 
